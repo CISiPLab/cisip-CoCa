@@ -20,9 +20,9 @@ sys.path.insert(0, os.path.abspath(".."))
 
 from coca.version import __version__  # noqa: E402
 
-project = "Sparse Image Captioning"
-copyright = "2021, CiSIPLab Universiti Malaya, Jia-Huei Tan"
-author = "CiSIPLab Universiti Malaya, Jia-Huei Tan"
+project = "CISiP-CoCa"
+copyright = "2021, CiSIPLab Universiti Malaya"
+author = "CiSIPLab Universiti Malaya"
 
 # The full version, including alpha/beta/rc tags
 release = __version__
