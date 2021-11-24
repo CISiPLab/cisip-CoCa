@@ -1,0 +1,14 @@
+h5py
+matplotlib
+pandas
+Pillow
+pycocotools
+scipy
+seaborn
+sentencepiece
+six
+tensorboard
+torch
+torchtext
+torchvision
+tqdm

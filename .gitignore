@@ -1,0 +1,28 @@
+# Internal references
+_ref_/
+__ref__/
+scripts/*.png
+tests/experiments
+*_jh.sh
+
+# Sphinx docs
+docs/_build
+
+# PyCharm
+.idea/
+
+# VS Code
+*.vscode
+.devcontainer/
+
+# OS
+thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info
+.pytest_cache
+.ipynb_checkpoints
