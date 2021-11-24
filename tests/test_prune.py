@@ -49,7 +49,13 @@ class Model(prune.PruningMixin, nn.Module):
     def get_optimizer(self):
         optim_params = [{"params": list(self.all_weights(named=False))}]
         if self.mask_type in prune.SUPER_MASKS:
-            optim_params += [{"params": list(self.active_pruning_masks(named=False)), "lr": 10, "weight_decay": 0,}]
+            optim_params += [
+                {
+                    "params": list(self.active_pruning_masks(named=False)),
+                    "lr": 10,
+                    "weight_decay": 0,
+                }
+            ]
         optimizer = optim.Adam(optim_params, lr=1e-2, weight_decay=1e-5)
         return optimizer
 

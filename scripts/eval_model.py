@@ -40,13 +40,21 @@ def parse_opt() -> Namespace:
         help="bool: If `True`, load model weights as `float16` (but run in float32).",
     )
     parser.add_argument(
-        "--mscoco_online_test", action="store_true", help="bool: If `True`, run inference on MS-COCO `test2014` split.",
+        "--mscoco_online_test",
+        action="store_true",
+        help="bool: If `True`, run inference on MS-COCO `test2014` split.",
     )
     parser.add_argument(
-        "--dataset", type=str, default=None, help="str: Dataset name. If not provided, load from config.",
+        "--dataset",
+        type=str,
+        default=None,
+        help="str: Dataset name. If not provided, load from config.",
     )
     parser.add_argument(
-        "--dataset_dir", type=str, default=None, help="str: Dataset directory. If not provided, load from config.",
+        "--dataset_dir",
+        type=str,
+        default=None,
+        help="str: Dataset directory. If not provided, load from config.",
     )
     args = parser.parse_args()
     args.log_dir = os.path.join(args.log_dir, args.id)
