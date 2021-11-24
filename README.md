@@ -1,7 +1,7 @@
 # cisip-CoCa - Compact Captioning
 
-![Tests](https://github.com/CISiPLab/cisip-FIRe/actions/workflows/tests.yml/badge.svg)
-![Black](https://github.com/CISiPLab/cisip-FIRe/actions/workflows/black.yml/badge.svg)
+![Tests](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/tests.yml/badge.svg)
+![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
 [![Documentation Status](https://readthedocs.org/projects/cisip-coca/badge/?version=latest)](https://sparse-image-captioning.readthedocs.io/en/latest/?badge=latest)
 
 
