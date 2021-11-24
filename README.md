@@ -2,12 +2,12 @@
 
 ![Tests](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/tests.yml/badge.svg)
 ![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
-[![Documentation Status](https://readthedocs.org/projects/cisip-coca/badge/?version=latest)](https://sparse-image-captioning.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/cisip-coca/badge/?version=latest)](https://cisip-coca.readthedocs.io/en/latest/?badge=latest)
 
 
 ## Get Started
 
-[Please refer to the documentation](https://sparse-image-captioning.readthedocs.io/en/latest/).
+[Please refer to the documentation](https://cisip-coca.readthedocs.io/en/latest/).
 
 
 ## Features
