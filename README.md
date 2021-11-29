@@ -10,7 +10,7 @@ Green Image Captioning (GreenCap) is an open source image captioning project rel
 
 ## Get Started
 
-[Please refer to the documentation](https://cisip-coca.readthedocs.io/en/latest/).
+[Please refer to the documentation](https://cisip-greencap.readthedocs.io/en/latest/).
 
 
 ## Features
