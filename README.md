@@ -97,9 +97,8 @@ If you find this work useful for your research, please cite
 }
 ```
 
-## Feedback
-Suggestions and opinions on this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
-`tan.jia.huei at gmail.com` or `cs.chan at um.edu.my`.
+## Contribution
+We welcome the contributions to improve this project. Please file your suggestions/issues by creating new issues or send us a pull request for your new changes/improvement/features/fixes.
 
 ## License and Copyright
 The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
