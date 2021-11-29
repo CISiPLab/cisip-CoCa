@@ -1,4 +1,4 @@
-# cisip-CoCa - Compact Captioning
+# cisip-GreenCap - Green Image Captioning
 
 ![Tests](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/tests.yml/badge.svg)
 ![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
@@ -54,7 +54,7 @@ The checkpoints are [available at this repo](https://github.com/jiahuei/sparse-c
 Soft-attention models implemented in TensorFlow 1.9 are available at [this repo](https://github.com/jiahuei/tf-sparse-captioning).
 
 
-## CIDEr score of pruning methods
+## CIDEr score of pruning methods (on MS-COCO dataset)
 
 ### Up-Down (UD)
 
@@ -98,7 +98,7 @@ If you find this work useful for your research, please cite
 ```
 
 ## Contribution
-We welcome the contributions to improve this project. Please file your suggestions/issues by creating new issues or send us a pull request for your new changes/improvement/features/fixes.
+We welcome the contributions to improve this project, in particular on other datasets - such as Flickr8k, Flickr30k, InstaPIC-1.1M etc. Please file your suggestions/issues by creating new issues or send us a pull request for your new changes/improvement/features/fixes.
 
 ## License and Copyright
 The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
