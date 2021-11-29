@@ -1,4 +1,4 @@
-# CISiP-GreenCap - Green Image Captioning
+# CISiP-CoCa - Compact Image Captioning Project
 
 ![Tests](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/tests.yml/badge.svg)
 ![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
@@ -6,7 +6,7 @@
 
 
 ## Introduction
-Green Image Captioning (GreenCap) is an open source image captioning project release by Center of Image and Signal Processing Lab (CISiP Lab), Universiti Malaya. This project is to promote Green Computer Vision to reduce carbon footprint, as well as to make computer vision research (in this case - image captioning research) accessible to universities, research labs and individual practitioners with limited financial resources.
+Compact Image Captioning (CoCa) is an open source image captioning project release by Center of Image and Signal Processing Lab (CISiP Lab), Universiti Malaya. This project is to promote Green Computer Vision to reduce carbon footprint, as well as to make computer vision research (in this case - image captioning research) accessible to universities, research labs and individual practitioners with limited financial resources.
 
 ## Get Started
 
