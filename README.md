@@ -1,4 +1,4 @@
-# cisip-GreenCap - Green Image Captioning
+# CISiP-GreenCap - Green Image Captioning
 
 ![Tests](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/tests.yml/badge.svg)
 ![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
