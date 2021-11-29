@@ -5,6 +5,9 @@
 [![Documentation Status](https://readthedocs.org/projects/cisip-coca/badge/?version=latest)](https://cisip-coca.readthedocs.io/en/latest/?badge=latest)
 
 
+## Introduction
+Green Image Captioning (GreenCap) is an open source image captioning project release by Center of Image and Signal Processing Lab (CISiP Lab), Universiti Malaya. This project is to promote Green Computer Vision to reduce carbon footprint, as well as to make computer vision research (in this case - image captioning research) accessible to universities, research labs and individual practitioners with limited financial resources.
+
 ## Get Started
 
 [Please refer to the documentation](https://cisip-coca.readthedocs.io/en/latest/).
