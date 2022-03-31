@@ -1,4 +1,4 @@
-# CISiP-CoCa - Compact Image Captioning Project
+# CISiP-CoCa - Compact Image Captioning 
 
 ![Tests](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/tests.yml/badge.svg)
 ![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
