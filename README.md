@@ -4,6 +4,7 @@
 ![Black](https://github.com/CISiPLab/cisip-CoCa/actions/workflows/black.yml/badge.svg)
 [![Documentation Status](https://readthedocs.org/projects/cisip-coca/badge/?version=latest)](https://cisip-coca.readthedocs.io/en/latest/?badge=latest)
 
+#### (Released August 2021)
 
 ## Introduction
 Compact Image Captioning (CoCa) is an open source image captioning project release by Center of Image and Signal Processing Lab (CISiP Lab), Universiti Malaya. This project is to promote Green Computer Vision to reduce carbon footprint, as well as to make computer vision research (in this case - image captioning research) accessible to universities, research labs and individual practitioners with limited financial resources.
