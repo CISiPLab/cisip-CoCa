@@ -89,7 +89,7 @@ Soft-attention models implemented in TensorFlow 1.9 are available at [this repo]
 ## Citation
 
 If you find this work useful for your research, please cite
-```
+```bibtex
 @article{tan2021end,
   title={End-to-End Supermask Pruning: Learning to Prune Image Captioning Models},
   author={Tan, Jia Huei and Chan, Chee Seng and Chuah, Joon Huang},
